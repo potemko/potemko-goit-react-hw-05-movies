@@ -1,0 +1,28 @@
+.container {
+    background-color: beige;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list{
+    display: flex;
+    gap: 20px;
+}
+.item{
+    list-style: none;
+}
+
+.link{
+   background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s ease;
+  text-decoration: none;
+}

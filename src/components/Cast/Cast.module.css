@@ -1,0 +1,12 @@
+.photoList{
+    margin-bottom: 10px;
+}
+
+.photoItem {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+
+}
