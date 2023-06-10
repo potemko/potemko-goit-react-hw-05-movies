@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/potemko-goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/potemko-goit-react-hw-05-movies/static/js/main.07d3183d.js",
+    "main.css": "/potemko-goit-react-hw-05-movies/static/css/main.7e4a860f.css",
+    "main.js": "/potemko-goit-react-hw-05-movies/static/js/main.62ca9b2a.js",
     "index.html": "/potemko-goit-react-hw-05-movies/index.html",
-    "main.7acaea2f.css.map": "/potemko-goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/potemko-goit-react-hw-05-movies/static/js/main.07d3183d.js.map"
+    "main.7e4a860f.css.map": "/potemko-goit-react-hw-05-movies/static/css/main.7e4a860f.css.map",
+    "main.62ca9b2a.js.map": "/potemko-goit-react-hw-05-movies/static/js/main.62ca9b2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.7e4a860f.css",
+    "static/js/main.62ca9b2a.js"
   ]
 }
