@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import css from './Home.module.css'
 import {getTrendingMovie} from '../../services/services'
 
-const API_KEY = '3a2e2bc23fb9726ad0f136c292eff3a7';
+// const API_KEY = '3a2e2bc23fb9726ad0f136c292eff3a7';
 // const TRENDING_URL = `https://api.themoviedb.org/3/trending/movie/day?api_key=${API_KEY}`;
 
 function Home() {

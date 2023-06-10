@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://potemko.github.io/potemko-goit-react-hw-05-movies/",
+  "homepage": "https://potemko.github.io/potemko-goit-react-hw-05-movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was created with\r [Create React App](https://github.com/facebook/create-react-app). To get\r acquainted and configure additional features\r [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potemko/potemko-goit-react-hw-05-movies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potemko/potemko-goit-react-hw-05-movies/issues"
   }
 }
